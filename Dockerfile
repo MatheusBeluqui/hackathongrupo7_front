@@ -1,4 +1,4 @@
-# Use uma Imagem Official do Python
+# Use uma Imagem oficial do Node
 FROM node:16-alpine
 
 # set working directory
